@@ -1,2 +1,2 @@
 choyeongyeong
-new branch 생성
+stash 함
